@@ -17,6 +17,6 @@ export default [
     id: 3,
     icon: <FaAndroid className="service-icon" />,
     title: "Software Education",
-    text: `I can help you and your child learn from an array of topics including software development, embedded programming, and other technologies. I provide an interactive learning environment to understand core principles in software engineering.`,
+    text: `I mentor and tutor from an array of topics including software development, embedded programming, Compuer Science fundamentals, and other technologies. I provide an interactive learning environment to understand core principles in software engineering.`,
   },
 ]
