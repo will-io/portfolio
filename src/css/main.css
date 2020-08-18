@@ -189,8 +189,9 @@ p {
 
 /* social links */
 .social-links {
+  margin-left: 2rem;
   margin-top: 2rem;
-  width: 15rem;
+  width: 5rem;
   display: flex;
   justify-content: space-between;
 }
