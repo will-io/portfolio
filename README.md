@@ -28,3 +28,6 @@ const Component = () => {
       },
     },
 ```
+## for the GraphQL playground:
+## http://localhost:8000/__graphql?query=
+
